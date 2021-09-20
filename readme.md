@@ -1,8 +1,5 @@
 # Instruções de instalação
-Requisitos do Projeto:
-#
-NodeJs 6.3.11 e
-Gulp 3.9.1
+Requisitos do Projeto: NodeJs 6.3.11 e Gulp 3.9.1
 
 Primeiramente confirme que Gulp  está instalado globalmente:
 
