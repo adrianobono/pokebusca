@@ -14,9 +14,14 @@ Após clonar o proeto, execute os seguintes comandos
     Para parar o servidor digite Control+C duas vezes.
     gulp start
     
-Acesse o servidoer na url abaixo:
+Acesso locala em:
 
 [http://localhost:8000/dist/index.html](http://localhost:8000/dist/index.html)
+
+
+Acesso online em:
+
+[https://icanvas.com.br/pokemon/](https://icanvas.com.br/pokemon/)
 
 
 
