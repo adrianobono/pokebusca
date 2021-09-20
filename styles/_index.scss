@@ -1,0 +1,42 @@
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+$primary: #1f407e;
+$secondary: #3ab7ff;
+$success: #03b412;
+$info: #7164ff;
+$warning: #ff9f65;
+$danger: #ff457b;
+$dark: #18181d;
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+	background-image: url("/images/pokeball.jpg");
+	background-repeat: no-repeat, repeat;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.pokelist {
+	border-radius: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	list-style-type: none;
+	cursor: pointer;
+}
+
+.pokenum {
+	margin-left: 4px;
+}
+
+.img {
+	max-width: 80%;
+}
+
+.exit {
+	background-color: #fff;
+}
