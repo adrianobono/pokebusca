@@ -11,9 +11,8 @@ Primeiramente confirme que Gulp  está instalado globalmente:
 Após clonar o proeto, execute os seguintes comandos
 #
     npm install
-    gulp build
-    Para parar o servidor digite Control+C duas vezes.
-    gulp start
+    npm run build
+    npm run start
     
 Acesso locala em:
 
