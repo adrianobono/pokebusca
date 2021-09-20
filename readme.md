@@ -14,7 +14,7 @@ Após clonar o projeto, execute os seguintes comandos
     npm run build
     npm run start
     
-Acesso locala em:
+Acesso local em:
 
 [http://localhost:8000/dist/index.html](http://localhost:8000/dist/index.html)
 
